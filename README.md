@@ -3,7 +3,7 @@ Deploy środowiska
 
 Kliknij:
 
-https://raw.githubusercontent.com/SlowinskiUWM/zsk-azure/refs/heads/main/template.json
+https://raw.githubusercontent.com/SlowinskiUWM/zsk-azure/main/template.json
 
 
 Szablon:
