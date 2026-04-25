@@ -36,9 +36,4 @@ Resource Group → Delete
 Uwaga
 
 Szablon NIE konfiguruje Active Directory automatycznie.
-To trzeba zrobić ręcznie
-
-
-
-
-https://raw.githubusercontent.com/SlowinskiUWM/zsk-azure/refs/heads/main/template.json
+To trzeba zrobić ręcznie.
