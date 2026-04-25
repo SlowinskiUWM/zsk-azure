@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_dc1_zsk_name": {
+            "value": null
+        },
+        "virtualMachines_client1_zsk_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_ad_zsk_name": {
+            "value": null
+        },
+        "networkInterfaces_dc1_zsk699_name": {
+            "value": null
+        },
+        "publicIPAddresses_dc1_zsk_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_client1_zsk969_name": {
+            "value": null
+        },
+        "publicIPAddresses_client1_zsk_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_dc1_zsk_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_client1_zsk_nsg_name": {
+            "value": null
+        }
+    }
+}
