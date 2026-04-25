@@ -3,7 +3,7 @@ Deploy środowiska
 
 Kliknij:
 
-https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/SlowinskiUWM/zsk-azure/main/template.json
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSlowinskiUWM%2Fzsk-azure%2Fmain%2Ftemplate.json
 
 Szablon:
 
